@@ -1,0 +1,7 @@
+Flask==3.0.0
+tensorflow
+opencv-python
+numpy
+scikit-learn
+adafruit-circuitpython-ads1x15
+gpiozero
