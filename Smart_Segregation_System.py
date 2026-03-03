@@ -167,7 +167,7 @@ def predict_water():
 
 def run_system():
     """Main Control Loop"""
-    print("🚀 System Started. Waiting for water...")
+    print("System Started. Waiting for water...")
     update_web("SYSTEM READY", "success")
     
     while True:
