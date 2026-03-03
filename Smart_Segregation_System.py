@@ -13,7 +13,7 @@ import threading
 from sklearn.preprocessing import StandardScaler
 
 # ==========================================
-#      💧 SMART SEGREGATION SYSTEM
+#     SMART SEGREGATION SYSTEM
 # ==========================================
 
 # --- 1. FLASK SETUP ---
