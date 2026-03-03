@@ -84,7 +84,7 @@ def wait_for_batch():
         last_pulse_time = time.time()
         if not flow_active:
             flow_active = True
-            update_web("🌊 FLOW DETECTED", "warning", "ANALYZING")
+            update_web("FLOW DETECTED", "warning", "ANALYZING")
 
     flow_sensor.when_activated = count_pulse
     
